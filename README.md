@@ -1,3 +1,4 @@
 # neu-defects
 Image classification of steel strip surface defects
-![alt text](https://github.com/DoZor-80/neu-defects/images/Defects.png "Logo Title Text 1")
+
+![alt text](https://github.com/DoZor-80/neu-defects/blob/main/images/Defects.png "Six types of defects")
